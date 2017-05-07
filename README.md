@@ -1,4 +1,4 @@
 # Java-Email-Application
 
 
-![Alt text](/Screenshot.png?raw=true "Optional Title")
+![Alt text](/Screenshot.PNG?raw=true "Optional Title")
